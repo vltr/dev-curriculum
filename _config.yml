@@ -6,8 +6,8 @@ language: "" # language to set into html tag, default is en
 
 # User settings
 
-author: Richard Kuesers
-author-title: Full Stack you-name-it
+author: Richard Kuesters
+author-title: full stack [you-name-it] || troubleshooter
 gravatar: 818c9411023d464a1a03c3c1af37b00f
 email: rkuesters@gmail.com
 twitter: vltr
@@ -15,7 +15,7 @@ github: vltr
 googleplus: +RichardKuesters
 facebook:
 linkedin: rkuesters/en
-bio: "i'm a computer programmer, analyst, software architect, tech enthusiast, ift admin and lots of things in between."
+bio: "Being an IT specialist and product development leader of industry level softwares, it is of my greatest interest in this continuous growth of my capabilities, not only as a leader - when such required - but also as a person, professional and passionate developer, using everything that I have learned so I can give employers the same level of growth and enthusiam I can develop on a daily basis on everything I'm engaged to."
 
 # Skills
 #
@@ -48,16 +48,12 @@ front-end:
     level: 4
   - name: Grunt
     level: 4
-  - name: Bower
-    level: 4
 
 back-end:
   - name: Node.js
     level: 5
   - name: Python
     level: 5
-  - name: Java
-    level: 4
   - name: C and CPP
     level: 4
   - name: SQL
@@ -131,6 +127,8 @@ others:
   - name: Cryptography
     level: 3
   - name: ActiveMQ
+    level: 4
+  - name: Java
     level: 4
 
 # Build settings
