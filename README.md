@@ -1,3 +1,11 @@
+# my dev curriculum
+
+[this is the result](https://vltr.github.io/).
+
+well, isn't it great? thanks to [@WendellAdriel](https://github.com/WendellAdriel/dev-curriculum)
+
+# original readme bellow, untouched
+
 <p align="center">
     <img src="screenshot.png" alt="Dev Curriculum logo">
 </p>
@@ -8,7 +16,7 @@
 
 ## What is this?
 
-**Dev Curriculum** is the fastest and simplest way to make a web curriculum for developers.  
+**Dev Curriculum** is the fastest and simplest way to make a web curriculum for developers.
 
 In few minutes you can have your own **Web Curriculum** for free using **Dev Curriculum** and **Github Pages**.
 
@@ -28,13 +36,13 @@ I ain't just developed **Dev Curriculum**, I'm also using it as my own Web Curri
 
 #### Step 1 - Fork Dev Curriculum to your User Repository
 
-Fork this repository, then rename the repository to `yourgithubusername.github.io`. Example: `wendelladriel.github.io`.  
+Fork this repository, then rename the repository to `yourgithubusername.github.io`. Example: `wendelladriel.github.io`.
 
 At this moment the **Web Curriculum** will often be viewable immediately at http://yourgithubusername.github.io.
 
 #### Step 2 - Customize your Web Curriculum
 
-To customize your **Web Curriculum** you will change only two files:  
+To customize your **Web Curriculum** you will change only two files:
 - `_config.yml`: in this file you have to put your personal informations and skills list
 - `css/_variables.sass`: in this file you can change the colors to customize the appearance of your **Web Curriculum**
 
