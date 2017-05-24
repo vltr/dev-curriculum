@@ -7,7 +7,7 @@ language: "" # language to set into html tag, default is en
 # User settings
 
 author: Richard Kuesters
-author-title: full stack [you-name-it] || troubleshooter
+author-title: IT Specialist (aka. full stack [you-name-it] || troubleshooter)
 gravatar: 818c9411023d464a1a03c3c1af37b00f
 email: rkuesters@gmail.com
 twitter: vltr
@@ -31,12 +31,14 @@ bio: "Being an IT specialist and product development leader of industry level so
 # If you don't want one of the sections below, leave the variable without any values
 front-end:
   - name: HTML 5
-    level: 4
+    level: 5
   - name: CSS 3
-    level: 4
+    level: 5
   - name: JavaScript
     level: 5
   - name: Angular 1.x
+    level: 4
+  - name: jQuery
     level: 4
   - name: Bootstrap
     level: 4
@@ -48,6 +50,8 @@ front-end:
     level: 4
   - name: Grunt
     level: 4
+  - name: Gulp
+    level: 3
 
 back-end:
   - name: Node.js
@@ -57,27 +61,29 @@ back-end:
   - name: C and CPP
     level: 4
   - name: SQL
-    level: 4
+    level: 5
   - name: C#
     level: 3
   - name: Bash
-    level: 3
+    level: 4
   - name: T-SQL
     level: 3
   - name: pgPL/SQL
     level: 4
   - name: PL/SQL
     level: 4
+  - name: Java
+    level: 5
+  - name: Flask (Python)
+    level: 4
 
 mobile:
-  # - name: Android
-  #   level: 2
-  # - name: Apache Cordova
-  #   level: 4
-  # - name: Ionic
-  #   level: 4
-  # - name: NativeScript
-  #   level: 3
+  - name: Android (Java)
+    level: 3
+  - name: iOS (Swift)
+    level: 3
+  - name: Any (CPP cross-platform)
+    level: 4
 
 db:
   - name: MySQL / MariaDB
@@ -110,6 +116,8 @@ devops:
     level: 5
   - name: Troubleshooting
     level: 5
+  - name: AWS
+    level: 4
 
 methodologies:
   - name: ToC - Theory of Constraints
@@ -130,6 +138,8 @@ others:
     level: 4
   - name: Java
     level: 4
+  - name: Cloud-stuff (VMs, IaaS, PaaS, Sandboxes, Containers, etc)
+    level: 5
 
 # Build settings
 
